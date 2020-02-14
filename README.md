@@ -1,4 +1,4 @@
 Calculator
 
 
-https://matthijsvannistelrooij.github.io/calculator/
+https://matthijsvannistelrooij.github.io/Calculator/
